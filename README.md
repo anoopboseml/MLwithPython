@@ -1,2 +1,2 @@
 # MLwithPython
-My notebooks and datasets from the "Machine Learning with Python" course provided by IBM
+My notebooks and datasets. I have uploaded data files as well as fully worked out Jupyter notebooks that contain various machine learning algorithms in action.
